@@ -1,0 +1,145 @@
+[
+  {
+    "type": "LET",
+    "value": "let",
+    "line": 1,
+    "col": 3
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "name",
+    "line": 1,
+    "col": 8
+  },
+  {
+    "type": "EQUALS",
+    "value": "\u003d",
+    "line": 1,
+    "col": 10
+  },
+  {
+    "type": "STRING",
+    "value": "\"elfie\"",
+    "line": 1,
+    "col": 22
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 1,
+    "col": 23
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "name",
+    "line": 3,
+    "col": 4
+  },
+  {
+    "type": "EQUALS",
+    "value": "\u003d",
+    "line": 3,
+    "col": 6
+  },
+  {
+    "type": "STRING",
+    "value": "test",
+    "line": 3,
+    "col": 13
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 3,
+    "col": 14
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "name",
+    "line": 4,
+    "col": 4
+  },
+  {
+    "type": "EQUALS",
+    "value": "\u003d",
+    "line": 4,
+    "col": 6
+  },
+  {
+    "type": "NUMBER",
+    "value": "2",
+    "line": 4,
+    "col": 8
+  },
+  {
+    "type": "PLUS",
+    "value": "+",
+    "line": 4,
+    "col": 10
+  },
+  {
+    "type": "NUMBER",
+    "value": "3",
+    "line": 4,
+    "col": 12
+  },
+  {
+    "type": "ASTERISK",
+    "value": "*",
+    "line": 4,
+    "col": 14
+  },
+  {
+    "type": "NUMBER",
+    "value": "4",
+    "line": 4,
+    "col": 16
+  },
+  {
+    "type": "PLUS",
+    "value": "+",
+    "line": 4,
+    "col": 18
+  },
+  {
+    "type": "NUMBER",
+    "value": "7",
+    "line": 4,
+    "col": 20
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 4,
+    "col": 21
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "test",
+    "line": 15,
+    "col": 4
+  },
+  {
+    "type": "OPEN_PAREN",
+    "value": "(",
+    "line": 15,
+    "col": 5
+  },
+  {
+    "type": "CLOSE_PAREN",
+    "value": ")",
+    "line": 15,
+    "col": 6
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 15,
+    "col": 7
+  },
+  {
+    "type": "EOF",
+    "line": 15,
+    "col": 7
+  }
+]
