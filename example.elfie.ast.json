@@ -1,0 +1,94 @@
+[
+  {
+    "path": [
+      "std",
+      "io"
+    ],
+    "nodeType": "import"
+  },
+  {
+    "name": "name",
+    "value": {
+      "value": "\"elfie\"",
+      "nodeType": "str"
+    },
+    "nodeType": "let"
+  },
+  {
+    "name": "name",
+    "value": {
+      "value": "test",
+      "nodeType": "str"
+    },
+    "nodeType": "reassign"
+  },
+  {
+    "name": "name",
+    "value": {
+      "operator": "+",
+      "left": {
+        "operator": "+",
+        "left": {
+          "value": 2,
+          "nodeType": "num"
+        },
+        "right": {
+          "operator": "*",
+          "left": {
+            "value": 3,
+            "nodeType": "num"
+          },
+          "right": {
+            "value": 4,
+            "nodeType": "num"
+          },
+          "nodeType": "bin_op"
+        },
+        "nodeType": "bin_op"
+      },
+      "right": {
+        "value": 7,
+        "nodeType": "num"
+      },
+      "nodeType": "bin_op"
+    },
+    "nodeType": "reassign"
+  },
+  {
+    "name": "test",
+    "arguments": [],
+    "body": [
+      {
+        "name": "boobs",
+        "value": {
+          "value": 69,
+          "nodeType": "num"
+        },
+        "nodeType": "let"
+      },
+      {
+        "condition": {
+          "operator": "\u003e",
+          "left": {
+            "value": 34,
+            "nodeType": "num"
+          },
+          "right": {
+            "value": 12,
+            "nodeType": "num"
+          },
+          "nodeType": "bin_op"
+        },
+        "body": [],
+        "elseBody": [],
+        "nodeType": "if"
+      }
+    ],
+    "nodeType": "fun"
+  },
+  {
+    "name": "test",
+    "arguments": [],
+    "nodeType": "invoke"
+  }
+]

@@ -1,4 +1,3 @@
 package me.chaoticva.elfie.node
 
-class Argument {
-}
+class Argument(val name: String)

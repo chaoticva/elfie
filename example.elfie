@@ -6,9 +6,9 @@ name = 2 + 3 * 4 + 7;
 fun test() {
     let boobs = 69;
     if 34 > 12 {
-        print("penis 69");
+        io.print("penis 69");
     } else {
-        print("cock and balls rofl");
+        io.print("cock and balls rofl");
     }
 }
 

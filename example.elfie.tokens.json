@@ -1,0 +1,295 @@
+[
+  {
+    "type": "IMPORT",
+    "value": "import",
+    "line": 1,
+    "col": 6
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "std",
+    "line": 1,
+    "col": 10
+  },
+  {
+    "type": "COLON",
+    "value": ":",
+    "line": 1,
+    "col": 11
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "io",
+    "line": 1,
+    "col": 13
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 1,
+    "col": 14
+  },
+  {
+    "type": "LET",
+    "value": "let",
+    "line": 3,
+    "col": 3
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "name",
+    "line": 3,
+    "col": 8
+  },
+  {
+    "type": "EQUALS",
+    "value": "\u003d",
+    "line": 3,
+    "col": 10
+  },
+  {
+    "type": "STRING",
+    "value": "\"elfie\"",
+    "line": 3,
+    "col": 22
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 3,
+    "col": 23
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "name",
+    "line": 5,
+    "col": 4
+  },
+  {
+    "type": "EQUALS",
+    "value": "\u003d",
+    "line": 5,
+    "col": 6
+  },
+  {
+    "type": "STRING",
+    "value": "test",
+    "line": 5,
+    "col": 13
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 5,
+    "col": 14
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "name",
+    "line": 6,
+    "col": 4
+  },
+  {
+    "type": "EQUALS",
+    "value": "\u003d",
+    "line": 6,
+    "col": 6
+  },
+  {
+    "type": "NUMBER",
+    "value": "2",
+    "line": 6,
+    "col": 8
+  },
+  {
+    "type": "PLUS",
+    "value": "+",
+    "line": 6,
+    "col": 10
+  },
+  {
+    "type": "NUMBER",
+    "value": "3",
+    "line": 6,
+    "col": 12
+  },
+  {
+    "type": "ASTERISK",
+    "value": "*",
+    "line": 6,
+    "col": 14
+  },
+  {
+    "type": "NUMBER",
+    "value": "4",
+    "line": 6,
+    "col": 16
+  },
+  {
+    "type": "PLUS",
+    "value": "+",
+    "line": 6,
+    "col": 18
+  },
+  {
+    "type": "NUMBER",
+    "value": "7",
+    "line": 6,
+    "col": 20
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 6,
+    "col": 21
+  },
+  {
+    "type": "FUN",
+    "value": "fun",
+    "line": 8,
+    "col": 3
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "test",
+    "line": 8,
+    "col": 8
+  },
+  {
+    "type": "OPEN_PAREN",
+    "value": "(",
+    "line": 8,
+    "col": 9
+  },
+  {
+    "type": "CLOSE_PAREN",
+    "value": ")",
+    "line": 8,
+    "col": 10
+  },
+  {
+    "type": "OPEN_BRACE",
+    "value": "{",
+    "line": 8,
+    "col": 12
+  },
+  {
+    "type": "LET",
+    "value": "let",
+    "line": 9,
+    "col": 7
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "boobs",
+    "line": 9,
+    "col": 13
+  },
+  {
+    "type": "EQUALS",
+    "value": "\u003d",
+    "line": 9,
+    "col": 15
+  },
+  {
+    "type": "NUMBER",
+    "value": "69",
+    "line": 9,
+    "col": 18
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 9,
+    "col": 19
+  },
+  {
+    "type": "IF",
+    "value": "if",
+    "line": 10,
+    "col": 6
+  },
+  {
+    "type": "NUMBER",
+    "value": "34",
+    "line": 10,
+    "col": 9
+  },
+  {
+    "type": "CLOSE_ANGLE",
+    "value": "\u003e",
+    "line": 10,
+    "col": 11
+  },
+  {
+    "type": "NUMBER",
+    "value": "12",
+    "line": 10,
+    "col": 14
+  },
+  {
+    "type": "OPEN_BRACE",
+    "value": "{",
+    "line": 10,
+    "col": 16
+  },
+  {
+    "type": "CLOSE_BRACE",
+    "value": "}",
+    "line": 12,
+    "col": 5
+  },
+  {
+    "type": "ELSE",
+    "value": "else",
+    "line": 12,
+    "col": 10
+  },
+  {
+    "type": "OPEN_BRACE",
+    "value": "{",
+    "line": 12,
+    "col": 12
+  },
+  {
+    "type": "CLOSE_BRACE",
+    "value": "}",
+    "line": 14,
+    "col": 5
+  },
+  {
+    "type": "CLOSE_BRACE",
+    "value": "}",
+    "line": 15,
+    "col": 1
+  },
+  {
+    "type": "IDENTIFIER",
+    "value": "test",
+    "line": 17,
+    "col": 4
+  },
+  {
+    "type": "OPEN_PAREN",
+    "value": "(",
+    "line": 17,
+    "col": 5
+  },
+  {
+    "type": "CLOSE_PAREN",
+    "value": ")",
+    "line": 17,
+    "col": 6
+  },
+  {
+    "type": "SEMICOLON",
+    "value": ";",
+    "line": 17,
+    "col": 7
+  },
+  {
+    "type": "EOF",
+    "line": 17,
+    "col": 7
+  }
+]

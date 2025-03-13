@@ -1,4 +1,3 @@
 package me.chaoticva.elfie.node
 
-class ImportNode {
-}
+class ImportNode(val path: ArrayList<String>): ASTNode("import")

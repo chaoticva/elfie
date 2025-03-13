@@ -9,10 +9,7 @@ enum class TokenType(val seq: String?) {
     FOR("for"),
     ASM("asm"),
     STRUCT("struct"),
-
-    NUMBER("NUMBER"),
-    BOOLEAN("BOOLEAN"),
-    STRING("STRING"),
+    IMPORT("import"),
 
     PLUS("+"),
     MINUS("-"),
@@ -28,6 +25,9 @@ enum class TokenType(val seq: String?) {
     CLOSE_ANGLE(">"),
     COMMA(","),
     SEMICOLON(";"),
+    COLON(":"),
+    PIPE("|"),
+    BANG("!"),
 
     IDENTIFIER("IDENTIFIER"),
     EOF(null)

@@ -1,7 +1,8 @@
 package me.chaoticva.elfie
 
 fun main() {
-    val lexer = Lexer("example.elf")
+    val lexer = Lexer("example.elfie")
     val parser = Parser(lexer)
-    parser.parse()
+    val compiler = Compiler(parser)
+    compiler.compile()
 }
